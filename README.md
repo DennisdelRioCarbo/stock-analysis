@@ -74,13 +74,12 @@
 
 ### Once we ran the timer in both the original Analysis and the Refactored Analysis we notice a decrease in run time for the refactored code for both years which indicates that the refactored code is more efficient than the original one.
 
+
        
-
 ###2017 vs 2018 Stock Analysis
-![2017 Vs 2018 Stock_Analysis](https://user-images.githubusercontent.com/104289098/168509353-5e3fb9f7-4834-44b6-95a0-82e604206400.png)
-
 By Comparing the stock returns for 2017 and 2018 we can see that 2017 was a better year for stock in general with almost all stock having positive returns except for "TERP", the only two stock that had positive returns for 2018 were "ENPH" and "RUN". Steve's parents were interested in investing in "DQ" which had the highest returns on 2017 (199.4%) but reported losses in 2018 (-62.6%). By looking at the returns for the two years it looks as if it would be better for Steve's parents to invest in "ENPH".
-        
+ ![2017 Vs 2018 Stock_Analysis](https://user-images.githubusercontent.com/104289098/168509459-0705f848-7378-4ab6-b1a0-835450713c6e.png)
+       
         
 
 **##SUMMARY**

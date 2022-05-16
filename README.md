@@ -73,6 +73,11 @@
         MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
 
 ### Once we ran the timer in both the original Analysis and the Refactored Analysis we notice a decrease in run time for the refactored code for both years which indicates that the refactored code is more efficient than the original one.
+![Runtime 2017 Original Stock_Analysis](https://user-images.githubusercontent.com/104289098/168509649-538acbf6-7a0b-4f0f-909c-f4a9b1c55240.png)
+![Runtime 2017 Refactored Stock_Analysis](https://user-images.githubusercontent.com/104289098/168509672-77fe7afa-e6a8-4d91-8d80-fc028363a196.png)
+
+![Runtime 2018 Original Stock_Analysis](https://user-images.githubusercontent.com/104289098/168509684-dbd58af3-bb1e-4c61-93ab-8c277514178e.png)
+![Runtime 2018 Refactored Stock_Analysis](https://user-images.githubusercontent.com/104289098/168509700-4a11ce88-6c28-4eaf-ab9c-494f89fe9bab.png)
 
 
        

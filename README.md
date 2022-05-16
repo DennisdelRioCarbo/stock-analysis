@@ -77,7 +77,7 @@
        
 
 ###2017 vs 2018 Stock Analysis
-https://github.com/DennisdelRioCarbo/stock-analysis/blob/main/2017%20Vs%202018%20Stock_Analysis.png
+
 By Comparing the stock returns for 2017 and 2018 we can see that 2017 was a better year for stock in general with almost all stock having positive returns except for "TERP", the only two stock that had positive returns for 2018 were "ENPH" and "RUN". Steve's parents were interested in investing in "DQ" which had the highest returns on 2017 (199.4%) but reported losses in 2018 (-62.6%). By looking at the returns for the two years it looks as if it would be better for Steve's parents to invest in "ENPH".
         
         

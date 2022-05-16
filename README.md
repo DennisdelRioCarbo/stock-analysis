@@ -74,16 +74,11 @@
 
 ### Once we ran the timer in both the original Analysis and the Refactored Analysis we notice a decrease in run time for the refactored code for both years which indicates that the refactored code is more efficient than the original one.
 
-        "C:\Users\12506\Desktop\Data Analytics\Git Hub Repository\stock-analysis\Resources\Runtime 2017 Original Stock_Analysis.png"
-        "C:\Users\12506\Desktop\Data Analytics\Git Hub Repository\stock-analysis\Resources\Runtime 2017 Refactored Stock_Analysis.png"
+       
 
-        "C:\Users\12506\Desktop\Data Analytics\Git Hub Repository\stock-analysis\Resources\Runtime 2018 Original Stock_Analysis.png"
-        "C:\Users\12506\Desktop\Data Analytics\Git Hub Repository\stock-analysis\Resources\Runtime 2018 Refactored Stock_Analysis.png"
+###2017 vs 2018 Stock Analysis
 
-
-###2017 Vs 2018 Stock_Analysis.png
-
-        By Comparing the stock returns for 2017 and 2018 we can see that 2017 was a better year for stock in general with almost all stock having positive returns except for "TERP", the only two stock that had positive returns for 2018 were "ENPH" and "RUN". Steve's parents were interested in investing in "DQ" which had the highest returns on 2017 (199.4%) but reported losses in 2018 (-62.6%). By looking at the returns for the two years it looks as if it would be better for Steve's parents to invest in "ENPH".
+By Comparing the stock returns for 2017 and 2018 we can see that 2017 was a better year for stock in general with almost all stock having positive returns except for "TERP", the only two stock that had positive returns for 2018 were "ENPH" and "RUN". Steve's parents were interested in investing in "DQ" which had the highest returns on 2017 (199.4%) but reported losses in 2018 (-62.6%). By looking at the returns for the two years it looks as if it would be better for Steve's parents to invest in "ENPH".
         
         
 

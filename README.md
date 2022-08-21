@@ -1,10 +1,10 @@
-#** STOCK-ANALYSIS (VBA)**
+# ** STOCK-ANALYSIS (VBA)**
 
-##** Overview of the project**
+## ** Overview of the project**
     In this project we helped our friend Steve who just graduated with his finance degree to analyze green stocks.Steve wants to know the returns of some  of these green stocks to invest some of his parents money. It looks like they are particularly interested in a stock with ticker symbol "DQ".  Steve had already prepared an excel sheet with all the information for these stocks and we are going to help him automate the analysis using VBA.  
     Steve liked the workbook that was originally prepared for him using VBA in excel to automate tasks, because just with the click of a button he can analyze an entire dataset of stocks with less chance of errors. Now to make the code more efficient and be able to run the analysis for thousands of stocks, the code needs to be refactored to reduce  run times.
 
-##** Analysis And Results**
+## ** Analysis And Results**
     We compared 12 green stocks for Steve with the excel worksheet that he provided for us. After creating the new macro we were able to have the program analyze, return and display the ticker for each stock, calculate the total volume for that stock for each year, and calculate and display the yearly return for each stock in a format which shows wether the return was positive (green) or negative(red).
     We also created buttons to make it easier for Steve to clear the worksheet and to display all of the information for the selected year, and had VBA display the run times for the macro. This was specially useful to compare results when the code was refactored.
 
@@ -66,7 +66,7 @@
         End If
          Next j
 
-         ###We ran a Timer to display a message on what the run time for the code was:
+         ### We ran a Timer to display a message on what the run time for the code was:
 
          startTime = Timer 
          endTime = Timer
@@ -86,18 +86,18 @@
 
 
        
-###** 2017 vs 2018 Stock Analysis**.
+### ** 2017 vs 2018 Stock Analysis**.
 
 By Comparing the stock returns for 2017 and 2018 we can see that 2017 was a better year for stock in general with almost all stock having positive returns except for "TERP", the only two stock that had positive returns for 2018 were "ENPH" and "RUN". Steve's parents were interested in investing in "DQ" which had the highest returns on 2017 (199.4%) but reported losses in 2018 (-62.6%). By looking at the returns for the two years it looks as if it would be better for Steve's parents to invest in "ENPH".
  ![2017 Vs 2018 Stock_Analysis](https://user-images.githubusercontent.com/104289098/168509459-0705f848-7378-4ab6-b1a0-835450713c6e.png)
        
         
 
-##** SUMMARY**
+## ** SUMMARY**
 
-###** Advantages and disadvantages of refactoring code in general.**
+### ** Advantages and disadvantages of refactoring code in general.**
     Refactoring the code can easily lead to errors or miss changes that need to be made with the new variables. It almost seems to be better to rewrite the whole macro from scratch to avoid "patching" although there will be cases where it might not just be possible to do because of the scope of the project. To make an analogy it seems as if refactoring code is like make an addition or a renovation to a house or building, the changes might be necessary but incorporating new things that were not contemplated in the original plan can make it challenging to make things work and it can create new difficulties that were not overseen.
 
-  ###** Advantages and disadvantages of the original and refactored VBS script.**
+  ### ** Advantages and disadvantages of the original and refactored VBS script.**
         The most obvious advantage of the refactored code is the reduction in run times which would allow to run an analysis of more stocks if needed be. The disadvantages of the reafactored code is the addition of lines of code and new variables used to create new arrays and set and index for those arrays. 
 

@@ -1,10 +1,10 @@
-# ** STOCK-ANALYSIS (VBA)**
+#  STOCK-ANALYSIS (VBA)
 
-## ** Overview of the project**
+##  Overview of the project
     In this project we helped our friend Steve who just graduated with his finance degree to analyze green stocks.Steve wants to know the returns of some  of these green stocks to invest some of his parents money. It looks like they are particularly interested in a stock with ticker symbol "DQ".  Steve had already prepared an excel sheet with all the information for these stocks and we are going to help him automate the analysis using VBA.  
     Steve liked the workbook that was originally prepared for him using VBA in excel to automate tasks, because just with the click of a button he can analyze an entire dataset of stocks with less chance of errors. Now to make the code more efficient and be able to run the analysis for thousands of stocks, the code needs to be refactored to reduce  run times.
 
-## ** Analysis And Results**
+## Analysis And Results
     We compared 12 green stocks for Steve with the excel worksheet that he provided for us. After creating the new macro we were able to have the program analyze, return and display the ticker for each stock, calculate the total volume for that stock for each year, and calculate and display the yearly return for each stock in a format which shows wether the return was positive (green) or negative(red).
     We also created buttons to make it easier for Steve to clear the worksheet and to display all of the information for the selected year, and had VBA display the run times for the macro. This was specially useful to compare results when the code was refactored.
 
